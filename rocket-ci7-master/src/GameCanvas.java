@@ -1,6 +1,7 @@
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import bai2.BackBuffered;
+//
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
